@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT wherearetheblueprint_1698.wsgi:application
